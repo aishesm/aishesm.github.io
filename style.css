@@ -1,0 +1,22 @@
+body{
+  background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&h=350');
+}
+.resize{
+  height: 50%;
+  width: 50%;
+}
+
+
+
+#about{
+   border: 2px solid black;
+   outline: black solid 10px;
+   margin: auto;
+   padding: 20px;
+   text-align: center;
+
+}
+
+ h1{
+  color: black;
+}
