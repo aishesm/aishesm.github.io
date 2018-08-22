@@ -23,7 +23,7 @@
 }
 
 header {
-  background-color: #ff4d4d;
+  background-color: white;
   padding: 15px;
   text-align: center;
   font-size: 35px;
@@ -32,9 +32,12 @@ header {
   font-family: Impact, Charcoal, sans-serif ;
   letter-spacing: normal|length|initial|inherit;
 
+
+}
+
 }
 head{
-  background-color:
+  background-color: #000033;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 104px
@@ -47,14 +50,14 @@ h2{
   color: white;
 }
 .grid-container{
-  background-color: #000033;
+  background-color:white;
 }
 
 
 body{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: #000033;
 
 }
 .grid-container {
